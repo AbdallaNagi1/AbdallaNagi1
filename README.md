@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdalla ... and I'm a Mechatornics Engineer Specialized in Industrial automation and IIOT ...</h2>
+<h2 align="left">Hi 👋! My name is Abdalla ... and I'm a Mechatornics Engineer Specialized in Industrial Automation and IIOT ...</h2>
 
 ###
 
