@@ -109,7 +109,7 @@ Beyond technical expertise, I am committed to:
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AbdallaNagi1&repo=Alien-Shooter&theme=tokyonight" />
 
 </a> 
 
@@ -130,18 +130,10 @@ Beyond technical expertise, I am committed to:
 </details>
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/AbdallaNagi1"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbdallaNagi1&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AbdallaNagi1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
 
@@ -153,6 +145,4 @@ Beyond technical expertise, I am committed to:
 </p>
 
 -----
-Credits: [Nneji123](https://github.com/Nneji123)
 
-Last Edited on: 4/30/2022
